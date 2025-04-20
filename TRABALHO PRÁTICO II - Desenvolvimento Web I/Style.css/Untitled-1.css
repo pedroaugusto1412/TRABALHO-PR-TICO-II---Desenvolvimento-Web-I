@@ -1,0 +1,67 @@
+#pai{
+    
+    display: flex;
+    background-color: darkgray;
+    flex-direction: row;
+    height: 400px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align:initial;
+    color: white;
+}
+.f1{
+    background-color: greenyellow;
+    width: 100%; 
+    height: 10%; 
+    margin: 10px;  
+    text-align: center;
+    padding: 5px;
+}
+.f2{
+    background-color: orange;
+    height: 60%;
+    width: 20%;
+    margin: 5px;
+}
+p{
+    padding: 0px 10px;
+}
+.f3{
+    background-color: rgb(76, 146, 238) ;
+    width: 78%;
+    height: 60%;
+    margin: 5px;
+}
+.f4{
+    background-color: gray;
+    width: 100%;  
+    height: 10%; 
+    margin: 10px;  
+    text-align: center;
+    padding: 5px;
+}
+.f{
+    height: 40px;
+    width: 32%;
+    background-color: rgb(202, 57, 57);
+    margin: 5px;
+    border-radius:10px;
+    padding: 10px;
+}
+.fi{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fe div{
+    height: 40px;
+    width: 20%;
+    background-color: blueviolet;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.fe{
+    display: flex;
+    justify-content: space-evenly;
+}
